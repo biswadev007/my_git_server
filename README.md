@@ -35,3 +35,6 @@
 
 3. Open git ui
    Open any browser and hit your_public_ip:1234
+
+
+Visit for more details: [https://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server]
