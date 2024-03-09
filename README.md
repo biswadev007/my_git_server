@@ -22,6 +22,14 @@
 5. Create a git repository
    $ git init --bare
 
+6. Clone the repository
+   At first add your local machine's public key in server for authorise
+   Copy your public ssh key
+   Go to the server machine home/git and create .ssh folder, move to .ssh and create a file called authorized_keys file and paste.
+
+   Now in local machine
+   $ git clone git@server_machine_ip:/repository_path
+
 # Setup Git basic UI~🚀🚀
 
 1. Install gitweb
